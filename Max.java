@@ -21,5 +21,6 @@ public class Max{
         }
 
         System.out.printf("The Maximum in the array is %d",max);
+        sc.close();
     }
 }
